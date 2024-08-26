@@ -41,13 +41,9 @@ To get started with this project, follow these simple steps:
 ## Contributing 🤝
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request. Let's make this project even better together!
 
-## License 📄
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements 🙏
 - Thanks to [FlagsAPI](https://flagsapi.com/) for the country flag images.
 - Exchange rates powered by the [Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/).
 
-## Demo 🎉
-Check out a live demo of the Currency Converter [here](#).
+
 
